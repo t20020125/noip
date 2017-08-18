@@ -25,7 +25,6 @@ struct node
 //		}
 };
 node myclass[100];
-
 //也可以用如下两种方式定义 
 //sort后不需要加比较函数  
 bool operator <(node a,node b)
